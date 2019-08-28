@@ -1,6 +1,6 @@
 using System;
 
-namespace Mindbox_task
+namespace MindboxTask
 {
     public class Circle : Figure
     {
